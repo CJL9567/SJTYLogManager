@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SJTYLogManager_Example' do
+  pod 'SJTYLogManager', :path => '../'
+
+  target 'SJTYLogManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

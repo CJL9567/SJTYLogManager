@@ -1,0 +1,22 @@
+{
+  "name": "SJTYLogManager",
+  "version": "0.1.0",
+  "summary": "A short description of SJTYLogManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CJL9567/SJTYLogManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CJL9567": "13550027967@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CJL9567/SJTYLogManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SJTYLogManager/Classes/**/*"
+}

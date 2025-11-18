@@ -1,0 +1,16 @@
+PODS:
+  - SJTYLogManager (0.1.0)
+
+DEPENDENCIES:
+  - SJTYLogManager (from `../`)
+
+EXTERNAL SOURCES:
+  SJTYLogManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SJTYLogManager: 9631bc8dde1755872ccaed29c863ba881577c4ac
+
+PODFILE CHECKSUM: 20c701b088439081e2d7fb93031865705a9ae295
+
+COCOAPODS: 1.16.2
