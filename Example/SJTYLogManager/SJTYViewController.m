@@ -17,7 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
+    [SJTYLogManager setLog:YES];
+    SJTYLog(LogLevelInfo, @"=====wwwww");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
